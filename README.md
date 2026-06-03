@@ -134,7 +134,7 @@ personal-finance-analytics/
 ---
 
 ## 👨‍💻 Author
-**Umang Shrivastava**  
+**Umang Srivastava**  
 - Data Analytics Enthusiast  
 - Skills: SQL, Python, Data Visualization, Business Analytics, Data Analytics, Business Intelligence- PowerBI, Tableau. 
 - [LinkedIn](https://www.linkedin.com/in/umang-s-1727a0269/) | [GitHub](https://github.com/Umangsrivastava02)
